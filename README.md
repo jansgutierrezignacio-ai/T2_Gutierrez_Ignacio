@@ -15,3 +15,6 @@ Proyecto Maven WAR desarrollado para la Evaluacion 02 de Cibertec.
 Evaluación  T2 - Desarrollo e Implementación de Control de Versiones Git.
 ## Control de cambios
 Se realizan pruebas de gestión del Working Directory y Staging Area.
+
+## Gestión de ramas
+Trabajando en la rama feature-gutierrez para incluir la clase ControlVersion_Gutierrez.java  .
