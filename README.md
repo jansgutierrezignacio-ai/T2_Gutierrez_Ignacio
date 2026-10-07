@@ -10,6 +10,6 @@
 
 Proyecto Maven WAR desarrollado para la Evaluacion 02 de Cibertec.
 
-## Evidencia T2
 
-Este repositorio permite demostrar el uso de Git para el control de versiones.
+ ## Evidencia T2
+Evaluación  T2 - Desarrollo e Implementación de Control de Versiones Git.
