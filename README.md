@@ -13,3 +13,5 @@ Proyecto Maven WAR desarrollado para la Evaluacion 02 de Cibertec.
 
  ## Evidencia T2
 Evaluación  T2 - Desarrollo e Implementación de Control de Versiones Git.
+## Control de cambios
+Se realizan pruebas de gestión del Working Directory y Staging Area.
